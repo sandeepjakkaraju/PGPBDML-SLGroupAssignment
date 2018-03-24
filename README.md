@@ -17,12 +17,13 @@ Data Set - Bank_Personal_Loan_Modelling-1.xlsxView in a new window
 
 Considering the information provided above, follow the steps given below --
 
-Read the column description and ensure you understand each attribute well.
-Study the data distribution in each attribute, share your findings.
-Get the target column distribution. Your comments.
-Split the data into training and test set in the ratio of 70:30 respectively.
-Use a classification model to predict the likelihood of a liability customer buying personal loans.
-Explain why you chose one model over the other.
+#Read the column description and ensure you understand each attribute well.
+#Study the data distribution in each attribute, share your findings.
+#Get the target column distribution. Your comments.
+#Split the data into training and test set in the ratio of 70:30 respectively.
+#Use a classification model to predict the likelihood of a liability customer buying personal loans.
+#Explain why you chose one model over the other.
+
 Please Note:
 
 Total marks allotted for Mini Project is 50. 
